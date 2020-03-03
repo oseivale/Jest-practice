@@ -1,0 +1,26 @@
+{
+  "name": "Jest-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oseivale/Jest-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oseivale/Jest-practice/issues"
+  },
+  "homepage": "https://github.com/oseivale/Jest-practice#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
